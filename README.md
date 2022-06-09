@@ -15,7 +15,6 @@
   </a>
  
 </div>
-<br>
 
 <h2 align="center"> Visitor's count</h2>
 <p align="center"><img src="https://profile-counter.glitch.me/{priyal-babel}/count.svg" alt="priyal-babel :: Visitor's Count" /></p>
